@@ -21,6 +21,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 More info in [here](https://fly.io/speedrun/)
 
-``bash
-flyctl launch
+```bash
+fly launch
+
+
 ```
